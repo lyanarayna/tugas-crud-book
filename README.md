@@ -21,7 +21,7 @@ Aplikasi CRUD Buku ini dibuat untuk menambah, menampilkan, mengedit, dan menghap
 ---
 
 ## Spesifikasi Teknis
-- **PHP**: 8.x (atau versi yang terpasang)  
+- **PHP**: 8.4.14  
 - **Database**: MySQL (`book_php`)  
 - **Struktur folder**:
 config/ → database.php (koneksi database)
