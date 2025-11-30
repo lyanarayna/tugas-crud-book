@@ -84,9 +84,7 @@ http://localhost:8000/index.php
 ---
 
 ## Catatan
-- File cover disimpan di folder `uploads/` dengan nama unik (`time()_nama_file`)  
-- Path cover disimpan di database, **bukan isi file**  
-- Validasi input:
+- File cover disimpan di folder `uploads/` 
 - Teks: wajib diisi, maksimal 255 karakter  
 - Tahun: numeric, minimal 1900  
 - Kategori: hanya pilihan yang ada di form  
