@@ -1,5 +1,5 @@
-CREATE DATABASE crud_php;
-USE crud_php;
+CREATE DATABASE book_php;
+USE book_php;
 
 CREATE TABLE books (
     id INT AUTO_INCREMENT PRIMARY KEY,
